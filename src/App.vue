@@ -314,7 +314,7 @@ body {
   position: fixed;
   width: 100%;
   height: 100%;
-  background-color: #000;
+  background-color: rgba(232,160,184,1);
 }
 #app {
   width: 100%;
@@ -382,8 +382,8 @@ ul {
     font-size: 12px;
     transition: all 0.2s ease-in-out;
     &.active {
-      text-shadow: #e91e63 0 0 10px, #e91e63 0 0 20px, #e91e63 0 0 30px,
-        #e91e63 0 0 30px, #e91e63 0 0 70px, #e91e63 0 0 80px, #e91e63 0 0 100px;
+      text-shadow: #02c9c9 0 0 10px, #02c9c9 0 0 20px, #02c9c9 0 0 30px,
+        #02c9c9 0 0 30px, #02c9c9 0 0 70px, #02c9c9 0 0 80px, #02c9c9 0 0 100px;
     }
   }
 }
