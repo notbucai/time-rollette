@@ -314,11 +314,14 @@ body {
   position: fixed;
   width: 100%;
   height: 100%;
-  background-color: rgba(232,160,184,1);
+  /* background-color: rgba(232,160,184,1); */
+  /* background-image: linear-gradient(to top, #fad0c4 0%, #fad0c4 1%, #ffd1ff 100%); */
+  /* background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%); */
 }
 #app {
   width: 100%;
   height: 100%;
+  background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
   & > div {
     transition: all 1s linear;
     width: 0;
