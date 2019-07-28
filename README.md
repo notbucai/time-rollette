@@ -1,3 +1,9 @@
+> Demo 访问地址 [https://wuxinweb.github.io/time-rollette/](https://wuxinweb.github.io/time-rollette/)
+
+`展示图`
+![展示图](./show.png)
+
+# CLI 自动生成 
 # time-rollette
 
 ## Project setup
